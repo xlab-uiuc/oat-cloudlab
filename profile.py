@@ -33,7 +33,7 @@ request = pc.makeRequestRSpec()
 
 # Fixate parameters
 osImage = "urn:publicid:IDN+emulab.net+image+emulab-ops//UBUNTU22-64-STD"
-phystype = "c6420"
+phystype = "c8220"
 
 node = request.RawPC(hostname)
 node.disk_image = osImage
