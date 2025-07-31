@@ -1,6 +1,6 @@
 """Profile for running Acto on CloudLab. There is one single physical node. The
-OS image is hardwired to Ubuntu 20.04. The hardware type is hardwired to
-`c6420`.
+OS image is hardwired to Ubuntu 22.04. The hardware type is hardwired to
+`c8220`.
 
 Instructions:
 Wait for the experiment to start, and then log into the node by either way:
