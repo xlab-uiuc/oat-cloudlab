@@ -9,4 +9,4 @@ DOCKER_TOOLS:
   - docker-ce
   - docker-ce-cli
   - containerd.io
-TMPFS_SIZE: 350G
+TMPFS_SIZE: 160G
